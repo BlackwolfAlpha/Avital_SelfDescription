@@ -129,9 +129,13 @@ ul li:hover::before {
 }
 
 .logo-container {
-    width: 100%;
-    height: 70%;
-    margin-bottom: -28px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    width: 100vw;
+    height: 70vh;
 }
 
 .menu-toggle-button {
@@ -166,6 +170,7 @@ ul li a:focus, .menu-toggle-button:focus {
 .main_logo {
     width: 100%;
     height: 100%;
+    margin-top: 50px;
     object-fit: contain;
     background: linear-gradient(to bottom, #f1e5d6 0%, #c2af96 25%, #504b43 50%, #27231e 75%, #2d2b2b 100%);
     transition: transform 0.3s ease-in-out;
