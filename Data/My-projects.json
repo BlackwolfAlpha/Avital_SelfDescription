@@ -1,0 +1,76 @@
+{
+    "projects": [
+        {
+            "image": "design/My projects/Stwebstie.png",
+            "alt": "STARTERIM website",
+            "title": {
+                "en": "STARTERIM website",
+                "he": "אתר STARTERIM"
+            },
+            "description": {
+                "en": "Building a website for the STARTERIM community, including characterizing and identifying needs",
+                "he": "בניית אתר עבור קהילת STARTERIM, כולל אפיון וזיהוי צרכים"
+            }
+        },
+        {
+            "image": "design/My projects/Spark.png",
+            "alt": "SparkStars webzone",
+            "title": {
+                "en": "SparkStars website",
+                "he": "אתר אינטרנט SparkStars"
+            },
+            "description": {
+                "en": "Building a display website of worlds, games and more for the SPARKSTARS server",
+                "he": "בניית אתר תצוגה של עולמות, משחקים ועוד עבור שרת SPARKSTARS"
+            }
+        },
+        {
+            "image": "design/My projects/sad angle blue-print.png",
+            "alt": "Art Zone",
+            "title": {
+                "en": "Art Zone",
+                "he": "אזור האמנות"
+            },
+            "description": {
+                "en": "Designing pictures in different drawing styles and creating realism",
+                "he": "עיצוב תמונות בסגנונות ציור שונים ויצירת ריאליזם"
+            }
+        },
+        {
+            "image": "design/My projects/Logo rb.png",
+            "alt": "Logos for self-presentation Website",
+            "title": {
+                "en": "Logos for self-presentation Website",
+                "he": "לוגואים לאתרי הצגה עצמית"
+            },
+            "description": {
+                "en": "Specializing in designing logos for self-presentation sites",
+                "he": "התמחות בעיצוב לוגואים לאתרי הצגה עצמית"
+            }
+        },
+        {
+            "image": "design/My projects/Logo SR wed.png",
+            "alt": "Logos for events",
+            "title": {
+                "en": "Logos for events",
+                "he": "לוגואים לאירועים"
+            },
+            "description": {
+                "en": "Specializing in logo design for wedding invitations and events",
+                "he": "התמחות בעיצוב לוגואים להזמנות חתונה ואירועים"
+            }
+        },
+        {
+            "image": "design/My projects/ZFT.png",
+            "alt": "Logos for communities and enterprises",
+            "title": {
+                "en": "Logos for communities and enterprises",
+                "he": "לוגואים לקהילות ועסקים"
+            },
+            "description": {
+                "en": "Specializing in logo design for the community in visual design of people and characters",
+                "he": "התמחות בעיצוב לוגואים לקהילה בעיצוב חזותי של אנשים ודמויות"
+            }
+        }
+    ]
+}
