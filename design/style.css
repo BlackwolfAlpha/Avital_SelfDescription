@@ -389,6 +389,7 @@ p {
     gap: 20px;
     max-width: 1000px;
     margin: 0 auto;
+    cursor: pointer;
 }
 
 .projects-grid-2 {
@@ -397,6 +398,7 @@ p {
     gap: 15px;
     max-width: 1000px;
     margin: 0 auto;
+    cursor: pointer;
 }
 
 .project-item {
